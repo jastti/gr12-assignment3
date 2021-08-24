@@ -1,0 +1,7 @@
+90.0% This is movie one daction
+88.0% this is movie two fantasy
+80% movie has integer1 cartoon
+80% movie has integer2 daction
+70.0% This is movie three story
+70% this valid row now story
+80.0% this is movie four daction
